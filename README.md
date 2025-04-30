@@ -3,7 +3,7 @@
 <br>_B.S. Computer Science (AI Conc.), B.S. Economics (Expected May 2027)_
 
 **Interests:** Machine Learning, Dynamic Frontend Development, Stock Analysis
-<br>**Fall '25 Coursework:** Advanced Robotics, Intro to Artificial Intelligence, Econometrics
+<br>**Fall '25 Coursework:** Advanced Robotics, Intro to Artificial Intelligence, Econometrics I
 <br>**Past Coursework:** Data Structures & Algorithms, Operating Systems, C & Software Tools, Automata Grammars & Computability, Differential Equations, Linear Algebra
 
 
