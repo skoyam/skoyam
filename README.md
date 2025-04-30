@@ -1,4 +1,4 @@
-# Hey! Thanks for Stopping By!
+# Hey! Thanks For Stopping By!
 
 ## About Me
 2nd-year Student at North Carolina State University  
