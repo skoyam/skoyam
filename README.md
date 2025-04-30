@@ -69,7 +69,7 @@
  ║  < M I S C >                  ║
  ╚═══════════════════════════════╝
 ```
-
 ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)  ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=skoyam&icon=0&color=7)](https://visitcount.itsvg.in)
