@@ -1,3 +1,5 @@
+# Hey! Thanks for Stopping By!
+
 ## About Me
 2nd-year Student at North Carolina State University  
 *B.S. Computer Science (AI Conc.), B.S. Economics (Expected May 2027)*
