@@ -3,6 +3,7 @@
 ## About Me
 2nd-year Student at North Carolina State University  
 *B.S. Computer Science (AI Conc.), B.S. Economics (Expected May 2027)*
+
 **Interests:** Machine Learning, Dynamic Frontend Development, Stock Analysis, Database Management  
 **Fall '25 Coursework:** Advanced Robotics, Intro to Artificial Intelligence, Econometrics I  
 **Past Coursework:** Data Structures & Algorithms, Operating Systems, C & Software Tools, Automata Grammars & Computability, Differential Equations, Linear Algebra
