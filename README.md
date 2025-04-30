@@ -36,6 +36,4 @@
 ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=skoyam&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=skoyam&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skoyam&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
