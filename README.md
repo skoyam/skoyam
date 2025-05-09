@@ -4,9 +4,10 @@
 2nd-year Student at North Carolina State University  
 *B.S. Computer Science (AI Conc.), B.S. Economics (Expected May 2027)*
 
-**Interests:** Machine Learning, Dynamic Frontend Development, Stock Analysis, Database Management  
-**Fall '25 Coursework:** Advanced Robotics, Intro to Artificial Intelligence, Econometrics I  
+**Interests:** Machine Learning, Dynamic Frontend Development, Stock Analysis/Portfolio Management, Database Management  
+**Incoming Fall '25 Coursework:** Advanced Robotics, Intro to Artificial Intelligence, Econometrics I  
 **Past Coursework:** Data Structures & Algorithms, Operating Systems, C & Software Tools, Automata Grammars & Computability, Differential Equations, Linear Algebra
+**Experience** Incoming AI & Analytics Intern for Webster Bank, Incoming Applied AI for Engineering TA (E 298) at NC State (Fall '25 Semester)
 ## Tech Stack
 
  
