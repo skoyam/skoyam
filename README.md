@@ -3,6 +3,7 @@
 ## About Me
 3rd-year Student at North Carolina State University  
 *B.S. Computer Science (AI Conc.), B.S. Economics (Expected May 2027)*
+*Accelerated Bachelor's Masters Student*
 
 **Interests:** Machine Learning, Stock Analysis/Portfolio Management, and Experimenting with new technologies and frameworks!
 
