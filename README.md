@@ -4,10 +4,24 @@
 3rd-year Student at North Carolina State University  
 *B.S. Computer Science (AI Conc.), B.S. Economics (Expected May 2027)*
 
-**Interests:** Machine Learning, Dynamic Frontend Development, Stock Analysis/Portfolio Management, Database Management  
-**Fall '25 Coursework:** Advanced Robotics, Intro to Artificial Intelligence, Econometrics I  
-**Past Coursework:** Data Structures & Algorithms, Operating Systems, C & Software Tools, Automata Grammars & Computability, Differential Equations, Linear Algebra <br>
-**Experience:** AI & Analytics Intern at Webster Bank, Applied AI for Engineering TA _(E 298)_ at NC State _(Fall '25 Semester)_
+**Interests:** 
+- Machine Learning
+- Stock Analysis/Portfolio Management
+- Experimenting with new technologies and frameworks!
+
+**Fall '26 Coursework:** 
+- Game Theory (EC 468)
+- Building Game AI (CSC 584)
+- CS Grad Orientation (CSC 600)
+- Research Seminar in Economics (EC 490)
+- A Closer Look at Capitalism (EC 305)
+
+**Past Coursework:** Intro to AI, Automated Learning & Data Anaylsis, Data Structures & Algorithms, Advanced Robotics, Operating Systems, C & Software Tools, Automata Grammars & Computability, Differential Equations, Linear Algebra, App Web Computing, Econometrics I/II<br>
+
+**Experience: (1 YOE)** 
+- Incoming Fullstack SWE Intern at Fidelity Investments (North Carolina)
+- AI & Analytics Intern at Webster Bank (New York & Connecticut)
+- Lead Applied AI for Engineering TA _(E 298)_ at NC State _(Fall '25 -Present)_
 
 ## Tech Stack
 
