@@ -4,10 +4,7 @@
 3rd-year Student at North Carolina State University  
 *B.S. Computer Science (AI Conc.), B.S. Economics (Expected May 2027)*
 
-**Interests:** 
-- Machine Learning
-- Stock Analysis/Portfolio Management
-- Experimenting with new technologies and frameworks!
+**Interests:** Machine Learning, Stock Analysis/Portfolio Management, and Experimenting with new technologies and frameworks!
 
 **Fall '26 Coursework:** 
 - Game Theory (EC 468)
