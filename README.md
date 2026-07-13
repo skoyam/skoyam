@@ -1,7 +1,7 @@
 # Hey! Thanks For Stopping By!
 
 ## About Me
-3rd-year Student at North Carolina State University  
+4th-year Student at North Carolina State University  
 *B.S. Computer Science (AI Conc.), B.S. Economics (Expected May 2027)*</br>
 *Accelerated Bachelor's Masters Student*
 
@@ -17,8 +17,8 @@
 **Past Coursework:** Intro to AI, Automated Learning & Data Anaylsis, Data Structures & Algorithms, Advanced Robotics, Operating Systems, C & Software Tools, Automata Grammars & Computability, Differential Equations, Linear Algebra, App Web Computing, Econometrics I/II<br>
 
 **Experience: (1 YOE)** 
-- Incoming Fullstack SWE Intern at Fidelity Investments (North Carolina)
-- AI & Analytics Intern at Webster Bank (New York & Connecticut)
+- Fullstack SWE Intern at Fidelity Investments (Durham, North Carolina)
+- AI & Analytics Intern at Webster Bank (New York City & Stamford, Connecticut)
 - Lead Applied AI for Engineering TA _(E 298)_ at NC State _(Fall '25 -Present)_
 
 ## Tech Stack
